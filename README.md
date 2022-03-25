@@ -1,1 +1,4 @@
 # Tezos
+I am attesting that this GitHub handle NFT-Project is linked to the Tezos account tz1fmiGTfodHZ3BMRuiJNbRzvHqeYJKuBccM for tzprofiles
+
+sig:edsigtyHPUe53j8TCBz3y1eSXWkh2MkxeGvkmtJoXcjrxNQYCby7Rm1oLPkTCvV4ponP5CFbcAL58Y8a8c6q8xuLqydD5KDgq95
